@@ -1,0 +1,13 @@
+{
+  "name": "adventjs-2024",
+  "type": "module",
+  "scripts": {
+    "test": "bun run test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
