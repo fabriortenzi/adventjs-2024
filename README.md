@@ -9,3 +9,7 @@ Tu tarea es escribir una función que reciba una lista de números enteros (que 
 ## Reto #2: 🖼️ Enmarcando nombres
 
 Santa Claus 🎅 quiere enmarcar los nombres de los niños buenos para decorar su taller 🖼️, pero el marco debe cumplir unas reglas específicas. Tu tarea es ayudar a los elfos a generar este marco mágico.
+
+## Reto #3: 🏗️ Organizando el inventario
+
+Santa Claus 🎅 está revisando el inventario de su taller para preparar la entrega de regalos. Los elfos han registrado los juguetes en un array de objetos, pero la información está un poco desordenada. Necesitas ayudar a Santa a organizar el inventario.
