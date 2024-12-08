@@ -22,9 +22,20 @@ Santa Claus 🎅 está revisando el inventario de su taller para preparar la ent
 
 Los elfos 🧝🧝‍♂️ de Santa Claus han encontrado un montón de botas mágicas desordenadas en el taller. Cada bota se describe por dos valores:
 
-* `type` indica si es una bota izquierda (I) o derecha (R).
-* `size` indica el tamaño de la bota.
+- `type` indica si es una bota izquierda (I) o derecha (R).
+- `size` indica el tamaño de la bota.
 
 Tu tarea es ayudar a los elfos a emparejar todas las botas del mismo tamaño que tengan izquierda y derecha. Para ello, debes devolver una lista con los pares disponibles después de emparejar las botas.
 
 ¡Ten en cuenta que puedes tener más de una zapatilla emparejada del mismo tamaño!
+
+## Reto #6: 📦 ¿Regalo dentro de la caja?
+
+Ya hemos empaquetado cientos de regalos 🎁… pero a un elfo se le ha olvidado revisar si el regalo, representado por un asterisco `*`, está dentro de la caja.
+
+La caja tiene un regalo (`*`) y cuenta como dentro de la caja si:
+
+- Está rodeada por `#` en los bordes de la caja.
+- El `*` no está en los bordes de la caja.
+
+Ten en cuenta entonces que el `*` puede estar dentro, fuera o incluso no estar. Y debemos devolver `true` si el `*` está dentro de la caja y `false` en caso contrario.
