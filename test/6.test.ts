@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'bun:test';
 import { inBox } from '../src/6';
 
-describe.only('Reto #6: 📦 ¿Regalo dentro de la caja?', () => {
+describe('Reto #6: 📦 ¿Regalo dentro de la caja?', () => {
   it('test case #1', () => {
     // prettier-ignore
     const inBoxResult = inBox([

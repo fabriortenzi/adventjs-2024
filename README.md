@@ -39,3 +39,14 @@ La caja tiene un regalo (`*`) y cuenta como dentro de la caja si:
 - El `*` no está en los bordes de la caja.
 
 Ten en cuenta entonces que el `*` puede estar dentro, fuera o incluso no estar. Y debemos devolver `true` si el `*` está dentro de la caja y `false` en caso contrario.
+
+## Reto #7: 👹 El ataque del Grinch
+
+¡El **grinch** 👹 ha pasado por el taller de Santa Claus! Y menudo desastre ha montado. Ha cambiado el orden de algunos paquetes, por lo que los envíos no se pueden realizar.
+
+Por suerte, el elfo _Pheralb_ ha detectado el patrón que ha seguido el grinch para desordenarlos. **Nos ha escrito las reglas que debemos seguir para reordenar los paquetes. Las instrucciones que siguen son:**
+
+Recibirás un string que contiene letras y paréntesis.<br>
+Cada vez que encuentres un par de paréntesis, debes voltear el contenido dentro de ellos.<br>
+Si hay paréntesis anidados, resuelve primero los más internos.<br>
+Devuelve el string resultante con los paréntesis eliminados, pero con el contenido volteado correctamente.
