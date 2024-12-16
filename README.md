@@ -148,3 +148,9 @@ Estás en un mercado muy especial en el que se venden árboles de Navidad 🎄. 
 Normalmente se sumarían todos los valores de los adornos y ya está…
 
 Pero, ¡ojo! **Si un adorno se encuentra inmediatamente a la izquierda de otro de mayor valor, en lugar de sumar, se resta su valor.**
+
+## Reto #14: 🦌 Acomodando los renos
+
+## Reto #15: ✏️ Dibujando tablas
+
+## Reto #16: ❄️ Limpiando la nieve del camino
