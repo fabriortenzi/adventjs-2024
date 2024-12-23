@@ -154,3 +154,11 @@ Pero, ¡ojo! **Si un adorno se encuentra inmediatamente a la izquierda de otro d
 ## Reto #15: ✏️ Dibujando tablas
 
 ## Reto #16: ❄️ Limpiando la nieve del camino
+
+## Reto #17: 💣 Busca las bombas del Grinch
+
+## Reto #20: 🎁 Encuentra los regalos faltantes y duplicados
+
+## Reto #21: 🎄 Calcula la altura del árbol de Navidad
+
+## Reto #22: 🎁 Genera combinaciones de regalos
