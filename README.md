@@ -149,6 +149,8 @@ Normalmente se sumarían todos los valores de los adornos y ya está…
 
 Pero, ¡ojo! **Si un adorno se encuentra inmediatamente a la izquierda de otro de mayor valor, en lugar de sumar, se resta su valor.**
 
+## Reto #13: 🤖 ¿El robot está de vuelta?
+
 ## Reto #14: 🦌 Acomodando los renos
 
 ## Reto #15: ✏️ Dibujando tablas
@@ -157,8 +159,14 @@ Pero, ¡ojo! **Si un adorno se encuentra inmediatamente a la izquierda de otro d
 
 ## Reto #17: 💣 Busca las bombas del Grinch
 
+## Reto #18: 📇 La agenda mágica de Santa
+
 ## Reto #20: 🎁 Encuentra los regalos faltantes y duplicados
 
 ## Reto #21: 🎄 Calcula la altura del árbol de Navidad
 
 ## Reto #22: 🎁 Genera combinaciones de regalos
+
+## Reto #23: 🔢 Encuentra los números perdidos
+
+## Reto #24: 🪞 Verifica si los árboles son espejos mágicos
