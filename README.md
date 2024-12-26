@@ -161,6 +161,8 @@ Pero, ¡ojo! **Si un adorno se encuentra inmediatamente a la izquierda de otro d
 
 ## Reto #18: 📇 La agenda mágica de Santa
 
+## Reto #19: 📦 Apila cajas mágicas para repartir regalos
+
 ## Reto #20: 🎁 Encuentra los regalos faltantes y duplicados
 
 ## Reto #21: 🎄 Calcula la altura del árbol de Navidad
@@ -170,3 +172,5 @@ Pero, ¡ojo! **Si un adorno se encuentra inmediatamente a la izquierda de otro d
 ## Reto #23: 🔢 Encuentra los números perdidos
 
 ## Reto #24: 🪞 Verifica si los árboles son espejos mágicos
+
+## Reto #25: 🪄 Ejecuta el lenguaje mágico
